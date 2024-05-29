@@ -1,0 +1,53 @@
+.livre{
+    background-color: gray;
+    color: white;
+    border: grey;
+}
+ 
+th, td {
+    border: 2px solid black;
+    padding: 2px;
+    text-align: left;
+}
+ 
+.tabela {
+    border-top: 2px solid red;  
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+    border-left: 2px solid red;  
+}
+ 
+.centro{
+    text-align: center;
+}
+ 
+.borda{
+    border: 2px solid;
+}
+ 
+.titulo{
+    text-align: center;
+    background-color: limegreen;
+    font-size: 25px;
+}
+ 
+.coluna{
+    text-align: center;
+    background-color: darkcyan;
+}
+ 
+.titulo2{
+    text-align: center;
+    background-color: darkgray;
+}
+ 
+.titulo3{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+ 
+.cursos{
+    text-align: center;
+    background-color: palevioletred;
+    font-size: 25px;
+}
